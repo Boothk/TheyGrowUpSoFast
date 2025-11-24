@@ -10,9 +10,10 @@
   },
   "defaultScriptType":2,
   "Folders":[
+    {"$GMFolder":"","%Name":"Font","folderPath":"folders/Font.yy","name":"Font","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Pets","folderPath":"folders/Objects/Pets.yy","name":"Pets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Icons","folderPath":"folders/Objects/Icons.yy","name":"Icons","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Pets","folderPath":"folders/Objects/Pets.yy","name":"Pets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Background","folderPath":"folders/Sprites/Background.yy","name":"Background","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -31,6 +32,7 @@
   },
   "name":"TheyGrowUpSoFast",
   "resources":[
+    {"id":{"name":"fnt_calibri","path":"fonts/fnt_calibri/fnt_calibri.yy",},},
     {"id":{"name":"obj_blob","path":"objects/obj_blob/obj_blob.yy",},},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},
     {"id":{"name":"obj_fitness","path":"objects/obj_fitness/obj_fitness.yy",},},
@@ -39,6 +41,7 @@
     {"id":{"name":"obj_meat","path":"objects/obj_meat/obj_meat.yy",},},
     {"id":{"name":"obj_ooze","path":"objects/obj_ooze/obj_ooze.yy",},},
     {"id":{"name":"obj_rip","path":"objects/obj_rip/obj_rip.yy",},},
+    {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"obj_toilet","path":"objects/obj_toilet/obj_toilet.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"spr_blob_eat","path":"sprites/spr_blob_eat/spr_blob_eat.yy",},},
