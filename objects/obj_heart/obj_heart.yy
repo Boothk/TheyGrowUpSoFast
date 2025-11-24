@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_meat",
+  "%Name":"obj_heart",
   "eventList":[],
   "managed":true,
-  "name":"obj_meat",
+  "name":"obj_heart",
   "overriddenProperties":[],
   "parent":{
     "name":"Icons",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_food",
-    "path":"sprites/spr_food/spr_food.yy",
+    "name":"spr_heart",
+    "path":"sprites/spr_heart/spr_heart.yy",
   },
   "spriteMaskId":null,
   "visible":true,

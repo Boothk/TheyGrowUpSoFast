@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_egg",
+  "%Name":"obj_rip",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_egg",
+  "name":"obj_rip",
   "overriddenProperties":[],
   "parent":{
     "name":"Pets",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_egg1",
-    "path":"sprites/spr_egg1/spr_egg1.yy",
+    "name":"spr_rip",
+    "path":"sprites/spr_rip/spr_rip.yy",
   },
   "spriteMaskId":null,
   "visible":true,
