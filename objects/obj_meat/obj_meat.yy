@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"obj_meat",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_meat",
   "overriddenProperties":[],
   "parent":{
-    "name":"Icons",
-    "path":"folders/Objects/Icons.yy",
+    "name":"Objects",
+    "path":"folders/Objects/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_object_parent",
+    "path":"objects/obj_object_parent/obj_object_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_food",
-    "path":"sprites/spr_food/spr_food.yy",
+    "name":"spr_meat",
+    "path":"sprites/spr_meat/spr_meat.yy",
   },
   "spriteMaskId":null,
   "visible":true,

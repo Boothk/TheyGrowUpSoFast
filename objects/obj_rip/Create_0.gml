@@ -1,0 +1,1 @@
+obj_game_manager.action_taken = true;

@@ -1,0 +1,1 @@
+if(thought_icon) { image_speed = 0; }

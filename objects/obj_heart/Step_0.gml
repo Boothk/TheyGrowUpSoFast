@@ -1,0 +1,1 @@
+image_alpha = (obj_game_manager.action_taken ? 0.25 : 1);

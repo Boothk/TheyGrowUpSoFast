@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_egg_hatch",
+  "%Name":"obj_object_parent",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_egg_hatch",
+  "name":"obj_object_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pets",
-    "path":"folders/Objects/Pets.yy",
+    "name":"Objects",
+    "path":"folders/Objects/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,14 +25,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"thought_icon","filters":[],"listItems":[],"multiselect":false,"name":"thought_icon","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_egg_hatch",
-    "path":"sprites/spr_egg_hatch/spr_egg_hatch.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

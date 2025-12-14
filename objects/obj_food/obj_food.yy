@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_egg",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_food",
+  "eventList":[],
   "managed":true,
-  "name":"obj_egg",
+  "name":"obj_food",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pets",
-    "path":"folders/Objects/Pets.yy",
+    "name":"Icons",
+    "path":"folders/Objects/Icons.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_icon",
+    "path":"objects/obj_icon/obj_icon.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_egg",
-    "path":"sprites/spr_egg/spr_egg.yy",
+    "name":"spr_food",
+    "path":"sprites/spr_food/spr_food.yy",
   },
   "spriteMaskId":null,
   "visible":true,

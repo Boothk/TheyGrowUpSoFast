@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_egg",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_thought",
+  "eventList":[],
   "managed":true,
-  "name":"obj_egg",
+  "name":"obj_thought",
   "overriddenProperties":[],
   "parent":{
-    "name":"Pets",
-    "path":"folders/Objects/Pets.yy",
+    "name":"Objects",
+    "path":"folders/Objects/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_egg",
-    "path":"sprites/spr_egg/spr_egg.yy",
+    "name":"spr_thought",
+    "path":"sprites/spr_thought/spr_thought.yy",
   },
   "spriteMaskId":null,
   "visible":true,

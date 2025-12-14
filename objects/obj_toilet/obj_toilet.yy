@@ -9,7 +9,10 @@
     "name":"Icons",
     "path":"folders/Objects/Icons.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_icon",
+    "path":"objects/obj_icon/obj_icon.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
