@@ -1,0 +1,1 @@
+thought = instance_create_layer(x+14,y+2, "Instances", shown_icon, {thought_icon: true});

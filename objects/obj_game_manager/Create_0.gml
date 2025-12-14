@@ -1,15 +1,15 @@
-pet_food = 10;
+pet_food = 5;
 pet_poop = 0;
 pet_fitness = 5;
-pet_love = 5;
+pet_love = 0;
 action_taken = true;
 egg_hatch = false;
 
 function reset_game(){
 	pet_food = 10;
-	pet_poop = 0;
 	pet_fitness = 5;
 	pet_love = 5;
+	pet_poop = 0;
 
 	action_taken = true;
 	egg_hatch = false;
