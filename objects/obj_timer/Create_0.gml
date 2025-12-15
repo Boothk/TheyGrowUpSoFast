@@ -2,7 +2,6 @@ seconds = -1;
 
 function increment_seconds()
 {
-	show_debug_message(obj_game_manager.pet_food);
 	// Timer management
 	if(seconds >= 20) { exit; }
 	
@@ -39,7 +38,8 @@ function increment_seconds()
 				instance_create_layer(96, 32, "Instances", obj_thought, { shown_icon: _thought });
 		}
 	}
-		
+	show_debug_message([obj_game_manager.pet_food, obj_game_manager.pet_fitness, obj_game_manager.pet_poop, obj_game_manager.pet_love]);
+	
 	delay(function() { increment_seconds(); }, 1);
 }
 

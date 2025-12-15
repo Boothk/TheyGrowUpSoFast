@@ -4,7 +4,7 @@ if(block_click) { exit; };
 
 if(instance_exists(lunch)) { exit; }
 
-obj_game_manager.pet_food += 3;
+obj_game_manager.pet_food += 10;
 lunch = instance_create_layer(96, 80, "Instances", obj_meat);
 
 delay(function() {
