@@ -1,0 +1,1 @@
+obj_food.eating = false;

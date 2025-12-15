@@ -1,1 +1,2 @@
 lunch = undefined;
+eating = false;
